@@ -6,7 +6,6 @@ Hi 👋, I'm Ruksar Patel
 - 🌱 I’m currently learning Advanced React, Routing, and Authentication flows
 - 💻 Recently built a complete frontend dashboard with Login & Signup integration
 - 💞️ I’m looking to collaborate on React and UI-based projects
-- 📫 Reach me at: your-email@example.com
 - ⚡ Fun fact: I learn fastest under pressure and love turning designs into functional apps
 
 ---
